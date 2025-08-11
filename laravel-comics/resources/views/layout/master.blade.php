@@ -15,9 +15,13 @@
 
     @include("partials/jumbotron")
 
+    @yield("container-card")
+
     @include("partials/blue-banner")
 
     @include("partials/footer")
+
+    @yield('social')
 
 </body>
 </html>

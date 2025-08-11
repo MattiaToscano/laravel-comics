@@ -1,7 +1,7 @@
 <div style="background: #2196f3; padding: 30px 0;">
     <div style="max-width: 1200px; margin: 0 auto; display: flex; justify-content: center; align-items: center; gap: 60px;">
         <div style="display: flex; flex-direction: column; align-items: center; color: #fff;">
-            <img src="" alt="Digital Comics" style="height: 50px; margin-bottom: 8px;">
+            <img src="('{{Vite::asset('resources/img/buy-comics-digital-comics.png')}}');" alt="Digital Comics" style="height: 50px; margin-bottom: 8px;">
             <span>DIGITAL COMICS</span>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; color: #fff;">
