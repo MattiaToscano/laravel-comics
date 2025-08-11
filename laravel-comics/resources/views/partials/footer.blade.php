@@ -53,39 +53,4 @@
 <footer>
     <hr>
 
-    <div class="container">
-            <nav>
-                <ul>
-                    <li>
-                        <h1>DC Comics</h1>
-                        <a href="">Character</a>
-                    </li>
-                    <li>
-                        <a href="">Comics</a>
-                    </li>
-                    <li>
-                        <a href="">Movies</a>
-                    </li>
-                    <li>
-                        <a href="">TV</a>
-                    </li>
-                    <li>
-                        <a href="">Collectibles</a>
-                    </li>
-                    <li>
-                        <a href="">Videos</a>
-                    </li>
-                    <li>
-                        <a href="">Fans</a>
-                    </li>
-                    <li>
-                        <a href="">News</a>
-                    </li>
-                    <li>
-                        <a href="">Shop</a>
-                    </li>
-                   
-                </ul>
-            </nav>
-         </div>
 </footer>

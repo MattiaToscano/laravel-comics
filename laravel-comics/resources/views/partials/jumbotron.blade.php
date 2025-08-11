@@ -1,3 +1,2 @@
-<div style="width: 100%;  overflow: hidden; position: relative;">
-	<img src="{{ Vite::asset('resources/img/jumbotron.jpg') }}" style="width: 100%; height: 100%; object-fit: cover; display: block;">
-</div>
+<div class="jumbotron mt-3" style="height: 400px; background-image: url('{{Vite::asset('resources/img/jumbotron.jpg')}}'); background-size: cover; background-position: center top; background-repeat: no-repeat;">
+    </div>

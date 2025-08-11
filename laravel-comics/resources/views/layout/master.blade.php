@@ -15,6 +15,7 @@
 
     @include("partials/jumbotron")
 
+    @include("partials/blue-banner")
 
     @include("partials/footer")
 
